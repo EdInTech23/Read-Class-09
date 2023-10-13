@@ -1,3 +1,5 @@
+We recently have been using alot of the command line. for exaple we had to use it ta activate SSH. 
+
 # Reading
 ## Command Prompt: What it is and how to use it
 
